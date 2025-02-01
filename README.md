@@ -24,4 +24,4 @@ Task that show you can generate mutli para in the same time.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![screenshot](src/Assets/swiper.png)
+![screenshot](src/para.png)
